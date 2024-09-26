@@ -1,4 +1,4 @@
 abstract public class Shape {
-    int x;
-    int y;
+    private int x;
+    private int y;
 }
